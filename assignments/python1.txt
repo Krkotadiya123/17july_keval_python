@@ -1,0 +1,13 @@
+https://github.com/Krkotadiya123/17july_keval_python.git
+
+
+
+
+…or create a new repository on the command line
+echo "# 17july_keval_python" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Krkotadiya123/17july_keval_python.git
+git push -u origin main
